@@ -1,0 +1,1061 @@
+{
+  "revision": 4,
+  "products": [
+    {
+      "id": "asada",
+      "name": "Taco de carne asada",
+      "description": "Res en tortilla de harina.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "caramelo",
+      "name": "Taco caramelo",
+      "description": "Carne y queso.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "lorenza",
+      "name": "Taco Lorenza",
+      "description": "Carne y queso sobre tostada.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "pastor",
+      "name": "Taco al pastor",
+      "description": "Cerdo al pastor en tortilla de maíz.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "gringa",
+      "name": "Gringa",
+      "description": "Pastor con queso.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "jaas",
+      "name": "Taco JAAS",
+      "description": "Asada, queso y chile verde.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "tripitas",
+      "name": "Taco de tripitas",
+      "description": "Tripitas de res.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "pollo",
+      "name": "Taco de pollo",
+      "description": "Tiras de pollo.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "campechano",
+      "name": "Taco campechano",
+      "description": "Asada y tripitas.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "taquiro",
+      "name": "Taquiro",
+      "description": "Asada y jalapeño con queso crema y tocino.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "taquiro-caramelo",
+      "name": "Taquiro caramelo",
+      "description": "Tortilla de harina y queso. Composición por confirmar.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "caramelo-panela",
+      "name": "Taco caramelo panela",
+      "description": "Queso panela en tortilla dorada.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "jaas-panela",
+      "name": "Taco JAAS panela",
+      "description": "Queso panela.",
+      "category": "tacos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "costillas",
+      "name": "Taco de costillas RIB",
+      "description": "Costilla de res.",
+      "category": "especialidades",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "papa",
+      "name": "Papa con carne",
+      "description": "Papa, carne, queso, mantequilla, champiñones y tocino. Tipo de carne por confirmar.",
+      "category": "especialidades",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "gordita",
+      "name": "Gordita con carne asada",
+      "description": "Maíz, asientos, carne y queso.",
+      "category": "especialidades",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "cebolla",
+      "name": "Cebolla Montaño",
+      "description": "Carne, queso, champiñones y chile verde. Tipo de carne por confirmar.",
+      "category": "especialidades",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "frijoles",
+      "name": "Taco de frijoles",
+      "description": "Frijoles en tortilla.",
+      "category": "light",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "charros",
+      "name": "Frijol charro",
+      "description": "Porción publicada: 180 ml.",
+      "category": "light",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "light",
+      "name": "Taco light",
+      "description": "Carne en lechuga.",
+      "category": "light",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "ultra-light",
+      "name": "Taco ultra light",
+      "description": "Pollo en lechuga.",
+      "category": "light",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "jaas-light",
+      "name": "Taco JAAS light",
+      "description": "Carne y queso en lechuga.",
+      "category": "light",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "light-caramelo",
+      "name": "Taco light caramelo",
+      "description": "Composición pendiente de confirmación.",
+      "category": "light",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "caramelo-cabreria",
+      "name": "Caramelo de cabrería",
+      "description": "Filete de res y queso.",
+      "category": "cabreria",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "lorenza-cabreria",
+      "name": "Lorenza de cabrería",
+      "description": "Filete de res y queso en tostada.",
+      "category": "cabreria",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "light-cabreria",
+      "name": "Light de cabrería",
+      "description": "Filete de res en lechuga.",
+      "category": "cabreria",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "jaas-cabreria",
+      "name": "JAAS de cabrería",
+      "description": "Filete de res, queso y chile verde.",
+      "category": "cabreria",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "burro-cabreria",
+      "name": "Burro de cabrería",
+      "description": "Cabrería en tortilla de harina.",
+      "category": "cabreria",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "burro-caramelo-cabreria",
+      "name": "Burro caramelo cabrería",
+      "description": "Cabrería estilo caramelo.",
+      "category": "cabreria",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "papa-cabreria",
+      "name": "Papa de cabrería",
+      "description": "Papa, cabrería, crema, champiñones y tocino.",
+      "category": "cabreria",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "quesadilla-carne",
+      "name": "Quesadilla con carne",
+      "description": "Carne y queso en tortilla.",
+      "category": "burritos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "burro-jaas",
+      "name": "Burro JAAS",
+      "description": "Carne, queso y chile verde. Tipo de carne por confirmar.",
+      "category": "burritos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "burro-caramelo",
+      "name": "Burro caramelo",
+      "description": "Composición pendiente de confirmación.",
+      "category": "burritos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "burro-carne",
+      "name": "Burro con carne",
+      "description": "Carne en tortilla de harina.",
+      "category": "burritos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "quesadilla",
+      "name": "Quesadilla",
+      "description": "Tortilla y queso.",
+      "category": "burritos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "quesadilla-sencilla",
+      "name": "Quesadilla sencilla",
+      "description": "Tortilla y queso; tamaño por confirmar.",
+      "category": "burritos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "quesadilla-campechana",
+      "name": "Quesadilla campechana",
+      "description": "Asada con tripa.",
+      "category": "burritos",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "rollo-calabaza",
+      "name": "Rollo de calabaza",
+      "description": "Calabaza y queso crema.",
+      "category": "postres",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "rollo-zanahoria",
+      "name": "Rollo de zanahoria",
+      "description": "Zanahoria y queso crema.",
+      "category": "postres",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "flan",
+      "name": "Flan",
+      "description": "Receta por confirmar.",
+      "category": "postres",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "agua-litro",
+      "name": "Agua fresca · 1 litro",
+      "description": "Horchata, jamaica, cebada o piña.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "refresco",
+      "name": "Refrescos",
+      "description": "Sabores surtidos por confirmar.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "agua-fresca",
+      "name": "Agua fresca · 470 ml",
+      "description": "Horchata, jamaica, cebada o piña.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "agua",
+      "name": "Agua natural",
+      "description": "500 ml.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "powerade",
+      "name": "Powerade",
+      "description": "500 ml; sabores por confirmar.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "vitamin",
+      "name": "Vitamin Water",
+      "description": "500 ml; sabores por confirmar.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "fuze",
+      "name": "Fuze Tea",
+      "description": "600 ml; sabores por confirmar.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "pepsi",
+      "name": "Pepsi",
+      "description": "Tamaño por confirmar: la fuente publica 355 y 400 ml.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "manzanita",
+      "name": "Manzanita",
+      "description": "Tamaño por confirmar: la fuente publica 355 y 400 ml.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "mirinda",
+      "name": "Mirinda",
+      "description": "400 ml.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    },
+    {
+      "id": "seven",
+      "name": "Seven",
+      "description": "Tamaño por confirmar: la fuente publica 355 y 400 ml.",
+      "category": "bebidas",
+      "image": "/images/placeholder.svg",
+      "active": true,
+      "available": true,
+      "branchPrice": null,
+      "priceVerified": false,
+      "options": [],
+      "source": "https://www.ubereats.com/store/tacos-jaas-la-paloma/BuynX9a6RkW-tJw-HTIN7Q"
+    }
+  ],
+  "categories": [
+    {
+      "id": "tacos",
+      "name": "Taquitos"
+    },
+    {
+      "id": "especialidades",
+      "name": "Especialidades"
+    },
+    {
+      "id": "light",
+      "name": "Lo light"
+    },
+    {
+      "id": "cabreria",
+      "name": "De cabrería"
+    },
+    {
+      "id": "burritos",
+      "name": "Burritos y quesadillas"
+    },
+    {
+      "id": "postres",
+      "name": "Postres"
+    },
+    {
+      "id": "bebidas",
+      "name": "Bebidas"
+    }
+  ],
+  "branches": [
+    {
+      "id": "la-paloma",
+      "name": "La Paloma · Morelos",
+      "address": "Blvd. José María Morelos 671, Hermosillo, Sonora",
+      "verified": false,
+      "active": true
+    }
+  ],
+  "slots": [
+    {
+      "branchId": "la-paloma",
+      "weekday": 0,
+      "time": "18:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 0,
+      "time": "18:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 0,
+      "time": "19:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 0,
+      "time": "19:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 0,
+      "time": "20:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 0,
+      "time": "20:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 0,
+      "time": "21:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 1,
+      "time": "18:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 1,
+      "time": "18:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 1,
+      "time": "19:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 1,
+      "time": "19:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 1,
+      "time": "20:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 1,
+      "time": "20:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 1,
+      "time": "21:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 2,
+      "time": "18:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 2,
+      "time": "18:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 2,
+      "time": "19:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 2,
+      "time": "19:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 2,
+      "time": "20:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 2,
+      "time": "20:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 2,
+      "time": "21:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 3,
+      "time": "18:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 3,
+      "time": "18:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 3,
+      "time": "19:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 3,
+      "time": "19:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 3,
+      "time": "20:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 3,
+      "time": "20:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 3,
+      "time": "21:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 4,
+      "time": "18:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 4,
+      "time": "18:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 4,
+      "time": "19:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 4,
+      "time": "19:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 4,
+      "time": "20:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 4,
+      "time": "20:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 4,
+      "time": "21:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 5,
+      "time": "18:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 5,
+      "time": "18:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 5,
+      "time": "19:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 5,
+      "time": "19:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 5,
+      "time": "20:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 5,
+      "time": "20:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 5,
+      "time": "21:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 6,
+      "time": "18:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 6,
+      "time": "18:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 6,
+      "time": "19:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 6,
+      "time": "19:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 6,
+      "time": "20:00",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 6,
+      "time": "20:30",
+      "enabled": true,
+      "verified": false
+    },
+    {
+      "branchId": "la-paloma",
+      "weekday": 6,
+      "time": "21:00",
+      "enabled": true,
+      "verified": false
+    }
+  ],
+  "promotions": [],
+  "settings": {
+    "paused": false,
+    "whatsappEnabled": false,
+    "whatsappVerified": false,
+    "whatsappNumber": "",
+    "businessAuthorized": false,
+    "demoSlots": true
+  }
+}
